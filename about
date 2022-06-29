@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Website</title>
+
+<style>
+
+body
+    {
+        background-image: url('img2.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover
+    }
+</style>
+
+
+<h1 style= "text-align: center; background-color: white;"> Welcome to  <b>AIM SOFTWARE SOLUTIONS PVT LTD</b></h1>
+
+
+<p style="background-color:pink;"><b>WHO WE ARE<br> </b>
+  <br>We are a digital transformation consultancy and software development company that provides cutting edge engineering solutions, helping Fortune companies and enterprise clients untangle 
+  complex issues that always emerge during their digital evolution journey. <br> Since 2019 we have been a visionary and a reliable software engineering partner for world-class brands.
+    
+    <ul type="square">
+      <p>WHAT WE OFFER</p>
+      <li>Front End Development</li>
+      <li>Back End Development</li>
+      <li>Graphic Design</li>
+      <li>Content Writing</li>
+      <li>Search Engine Optimization</li>
+      <li>Social Media Marketing</li>
+      <li>Freelancing</li>
+      <li>Inventory Mangement System</li>
+    </ul>
+    
+    <img src="img1.jpg">
+    </p>
+
+<a style= "text-align: center; background-color: white;" href="https://www.google.com/"> AIM SOFTWARE SOLUTIONS PVT LTD</a>
+</head>
+</body>
+</html>
